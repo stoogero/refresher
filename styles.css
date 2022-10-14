@@ -1,0 +1,23 @@
+.important {
+    color: purple;
+    
+}
+
+.artist {
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.descriptors, .rambles{
+    color: pink;
+    padding: 2px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+
+}
+
